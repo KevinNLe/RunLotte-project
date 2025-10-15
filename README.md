@@ -7,6 +7,7 @@ Created By:
 
 Agampreet Bajaj - Co-lead developer for Front-end.
 Adithya Chakka - Co-lead developer for Backend. Implemented mapping, routing, and geolocation functionalities.
+
 Kevin Le - Co-lead developer for Frontend.
 Kento Hopkins - Co-lead developer for Backend. Implemented weather, air quality, and geolocation functionalities.
 Henry Greene - Co-lead developer for Frontend.
